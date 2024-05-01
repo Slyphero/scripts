@@ -29,7 +29,7 @@ def print_tableau():
     # Formule LaTeX pour le tableau
     formula_string = textwrap.dedent(r'''
     \begin{center}
-    \begin{tabular}{|c||c||c||c|c|}
+    \begin{tabular}{|c|c|c|c||c|}
     \hline
     $$1$$
     \hline
